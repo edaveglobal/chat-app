@@ -1,5 +1,5 @@
 # Beepo Chat
-Realtime chat applicat with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend 
+Realtime chat application with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend 
 
 ## Usage
 ```
